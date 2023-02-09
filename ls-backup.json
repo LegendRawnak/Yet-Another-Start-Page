@@ -1,0 +1,179 @@
+{
+  "yags-general": {
+    "img": "https://e4p7c9i3.stackpathcdn.com/wp-content/uploads/2019/05/tumblr_p320aq1osj1vjxiz1o1_1280.gif?iv=344",
+    "title": "Yet another generic startpage",
+    "displayImg": true,
+    "font": "Quicksand",
+    "enableFonts": false
+  },
+  "yags-search": {
+    "placeholder": "Search the web",
+    "engine": "google",
+    "forwardingLookup": {
+      "/": "/",
+      "deepl": "https://deepl.com/",
+      "reddit": "https://reddit.com/",
+      "maps": "https://maps.google.com/"
+    }
+  },
+  "yags-theme": {
+    "inverted": false,
+    "color": {
+      "name": "dracula",
+      "bg": {
+        "shade": "#20222B",
+        "base": "#282A36",
+        "surface": "#303241",
+        "highlight": "#383B4C"
+      },
+      "fg": {
+        "shade": "#90908D",
+        "base": "#B3B3B1",
+        "surface": "#D6D6D5",
+        "highlight": "#F9F9F9"
+      },
+      "primary": {
+        "bg": "#970056",
+        "base": "#FF2EA6",
+        "fg": "#FFC4E6"
+      },
+      "secondary": {
+        "bg": "#048023",
+        "base": "#10F84B",
+        "fg": "#90FCAC"
+      },
+      "palette": {
+        "red": "#E06C75",
+        "green": "#98C379",
+        "yellow": "#E5C07B",
+        "blue": "#61AFEF",
+        "purple": "#C678DD",
+        "cyan": "#56B6C2",
+        "orange": "#FFBB7C"
+      }
+    },
+    "space": {
+      "smallest": "0.125rem",
+      "small": "0.5rem",
+      "medium": "1rem",
+      "large": "1.5rem",
+      "largest": "3rem"
+    }
+  },
+  "yags-surface": {
+    "shadow": {
+      "amount": 3,
+      "blur": 32,
+      "offset": 2,
+      "shadow": "2px 2px 32px rgb(151, 0, 86), 4px 4px 32px rgb(77.5, 64, 60.5), 6px 6px 32px rgb(4, 128, 35)"
+    },
+    "borderRadius": 0,
+    "maxWidth": 1000
+  },
+  "yags-bookmarks": [
+    {
+      "id": "KNNXFaRChUgmhBBl",
+      "label": "reddit",
+      "bookmarks": [
+        {
+          "id": "mLza2HCUj0yGeRm9",
+          "label": "r/startpages",
+          "url": "https://www.reddit.com/r/startpages/"
+        },
+        {
+          "id": "xfVjmhdovC4ocsyP",
+          "label": "r/typescript",
+          "url": "https://www.reddit.com/r/typescript/"
+        },
+        {
+          "id": "FU1zzw9ow44EAiMG",
+          "label": "r/reactjs",
+          "url": "https://www.reddit.com/r/reactjs/"
+        },
+        {
+          "id": "OEM6yOnmnDFKgVaO",
+          "label": "r/unixporn",
+          "url": "https://www.reddit.com/r/unixporn/"
+        }
+      ]
+    },
+    {
+      "id": "Yz8LNtUsEEexZtXm",
+      "label": "design tools",
+      "bookmarks": [
+        {
+          "id": "yQo1hImpXLgDGX3z",
+          "label": "pixlrx",
+          "url": "https://pixlr.com/x/"
+        },
+        {
+          "id": "ANwthWOPTv3MKQC6",
+          "label": "image enlarger",
+          "url": "https://bigjpg.com/en"
+        },
+        {
+          "id": "i16rl7sgk7KzVfkj",
+          "label": "haikei",
+          "url": "https://app.haikei.app/"
+        },
+        {
+          "id": "kSZuCkhcKjHaJFli",
+          "label": "css gradients",
+          "url": "https://larsenwork.com/easing-gradients/"
+        }
+      ]
+    },
+    {
+      "id": "d0x2MK3xtEk6vKSf",
+      "label": "sources",
+      "bookmarks": [
+        {
+          "id": "sXg9ANJ3zaNwPHEk",
+          "label": "icons",
+          "url": "https://feathericons.com/"
+        },
+        {
+          "id": "bIioFY7cWbxILbN8",
+          "label": "gif",
+          "url": "https://designyoutrust.com/2019/05/the-chill-and-retro-motion-pixel-art-of-motocross-saito/"
+        },
+        {
+          "id": "wwqBtfFNDZAIRz3z",
+          "label": "@startpage",
+          "url": "https://prettycoffee.github.io/startpage"
+        },
+        {
+          "id": "sBYR3DyCFAjOz95x",
+          "label": "author",
+          "url": "https://prettycoffee.github.io/"
+        }
+      ]
+    },
+    {
+      "id": "rFRGlkChCFNU7oAv",
+      "label": "Social Media",
+      "bookmarks": [
+        {
+          "id": "VcwREsr73076z2xo",
+          "label": "Youtube",
+          "url": "www.youtube.com"
+        },
+        {
+          "id": "jAmjopwlMHqtmAGE",
+          "label": "Facebook",
+          "url": "facebook.com"
+        },
+        {
+          "id": "hpyZsGFOH2ngy3ID",
+          "label": "Spotify",
+          "url": "open.spotify.com"
+        },
+        {
+          "id": "XOUE8yA6ozI2VCne",
+          "label": "Github",
+          "url": "github.com/LegendRawnak"
+        }
+      ]
+    }
+  ]
+}
